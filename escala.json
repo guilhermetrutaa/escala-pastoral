@@ -1,0 +1,12 @@
+[
+  {
+    "dia": "Domingo",
+    "data": "05/05/2025",
+    "coroinhas": ["João", "Maria", "Lucas"]
+  },
+  {
+    "dia": "Sábado",
+    "data": "11/05/2025",
+    "coroinhas": ["Ana", "Pedro", "Larissa"]
+  }
+]
